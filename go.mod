@@ -1,6 +1,6 @@
 module github.com/gothew/hogger
 
-go 1.22.1
+go 1.20
 
 require (
 	github.com/charmbracelet/lipgloss v0.11.0
